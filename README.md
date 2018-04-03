@@ -2,7 +2,7 @@
 
 [Travis CI](https://travis-ci.org) is a continuous integration service for Linux and macOS. I test my [public Perl 6 modules](https://github.com/briandfoy) on it and those modules often have the same Travis configuration. This repository versions that common file.
 
-I have similar repostories:
+I have similar repositories:
 
 * [Travis CI for Perl 5](https://github.com/briandfoy/brians_perl_modules_travis_config)
 * [AppVeyor for Perl 5 Modules](https://github.com/briandfoy/brians_perl_modules_appveyor_config)
